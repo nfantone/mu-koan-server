@@ -1,0 +1,18 @@
+{
+  "paths": {
+    "src": ["app.js", "app/**/*.js"],
+    "test": ["test/**/*.spec.js"]
+  },
+  "mocha": {
+    "require": ["should"]
+  },
+  "istanbul": {
+    "enforceThresholds": false,
+    "thresholds": {
+      "global": 80
+    }
+  },
+  "eslint": {
+    "failOnError": true
+  }
+}
