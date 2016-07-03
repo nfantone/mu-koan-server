@@ -1,6 +1,6 @@
 {
   "name": "mu-koan-server",
-  "version": "1.0.0",
+  "version": "1.0.1-dev",
   "codename": "Hermitish haiku",
   "description": "Graceful shutdown decorator for node's http(s) server",
   "main": "index.js",
