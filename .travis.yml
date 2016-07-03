@@ -24,3 +24,4 @@ deploy:
   on:
     tags: true
     repo: nfantone/mu-koan-server
+    node: '5'
