@@ -1,11 +1,13 @@
 language: node_js
 node_js:
-- '5'
 - '6'
+- '7'
 branches:
   only:
   - master
   - develop
+  - /^v?(\d\.){2}\d$/
+  - /^greenkeeper-.*$/
 notifications:
   email:
   - nfantone@gmail.com
@@ -24,4 +26,4 @@ deploy:
   on:
     tags: true
     repo: nfantone/mu-koan-server
-    node: '5'
+    node: '7'
