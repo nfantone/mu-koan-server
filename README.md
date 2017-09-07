@@ -1,4 +1,6 @@
 # mu-kōän-server 公案-閉鎖
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/nfantone/mu-koan-server.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/nfantone/mu-koan-server.svg?branch=master)](https://travis-ci.org/nfantone/mu-koan-server)
 
 > Graceful shutdown decorator for node's http(s) server
