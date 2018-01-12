@@ -54,7 +54,7 @@
     "gulp-util": "^3.0.8",
     "pre-commit": "^1.2.2",
     "run-sequence": "^1.2.2",
-    "should": "^11.2.0"
+    "should": "^13.2.1"
   },
   "pre-commit": [
     "validate"
