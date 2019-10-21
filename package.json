@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/nfantone/mu-koan-server#readme",
   "dependencies": {
-    "glob": "^7.1.1",
+    "glob": "^7.1.5",
     "http-shutdown": "^1.2.0",
     "lodash.defaults": "^4.2.0",
     "mu-koan-logger": "^1.0.2"
